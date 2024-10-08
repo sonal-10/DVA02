@@ -1,0 +1,2 @@
+run : python3 -m http.server
+open the browswer : http://localhost:8000
